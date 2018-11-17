@@ -30,13 +30,14 @@ public class ServerProvider {
 			    client.preDisconnect(() -> callback.callback(client + " is about to disconnect!"));
 			    client.postDisconnect(() -> callback.callback(client +  " disconnected!"));
 		});
-		
+
+
 		server.bind("localhost", 43594);
 		callback.callback("Successfully bound to localhost:43594!");
 	}
 	
 	public static void disconnect(GuiCallback callback) {
 		server.close();
-		callback.callback("Server safe closed!");
+//		callback.callback("Server safe closed!");
 	}
 }

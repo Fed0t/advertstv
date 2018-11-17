@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="advertstv" target="11" />
+      <module name="advertstv-server" target="11" />
       <module name="gui" target="11" />
       <module name="logic" target="11" />
     </bytecodeTargetLevel>
