@@ -2,36 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73348161-3732-4fc9-9393-c617bed1aac6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jhg023_SimpleNet_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/gui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/logic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SERVER/gui/src/main/java/com/advertstv/serverui/ServerStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_sun_jna_jna_3_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/uk_co_caprica_vlcj_3_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/MinimalPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/PlayerInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertstv-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/advertstv-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/gui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gui/gui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/GUIMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/GUIMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/classes/com/advertstv/clientui/GUIMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/classes/com/advertstv/clientui/GUIMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/classes/com/advertstv/clientui/GUIMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/classes/com/advertstv/clientui/GUIMain$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/classes/com/advertstv/clientui/GUIMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/classes/com/advertstv/clientui/GUIMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/logic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SERVER/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/advertstv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/advertstv-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SERVER/gui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/gui/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SERVER/gui/src/main/java/com/advertstv/serverui/GUIMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/gui/src/main/java/com/advertstv/serverui/GUIMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain$4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/gui/target/classes/com/advertstv/serverui/GUIMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/logic/src/main/java/com/advertstv/server/ClientTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/logic/src/main/java/com/advertstv/server/ServerProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/logic/src/main/java/com/advertstv/server/ServerProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/logic/target/classes/com/advertstv/server/ClientTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/logic/target/classes/com/advertstv/server/GuiCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/logic/target/classes/com/advertstv/server/GuiCallback.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SERVER/logic/target/classes/com/advertstv/server/ServerProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SERVER/logic/target/classes/com/advertstv/server/ServerProvider.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,45 +37,46 @@
     <session id="-2144304711">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="2" />
-          <entry key="java" value="10" />
-          <entry key="xml" value="2" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="16" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="10" />
-          <entry key="XML" value="2" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="16" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="71" />
-          <entry key="xml" value="6" />
+          <entry key="java" value="304" />
+          <entry key="xml" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="71" />
-          <entry key="XML" value="6" />
+          <entry key="JAVA" value="304" />
+          <entry key="XML" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/GUIMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="63" column="32" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="32" />
+            <state relative-caret-position="253">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1880#1881#0" expanded="true" />
@@ -96,9 +87,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/PlayerInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/MinimalPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui/src/main/java/module-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logic/src/main/java/com/advertstv/client/ClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="713">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -113,12 +157,26 @@
         <entry file="file://$PROJECT_DIR$/logic/src/main/java/com/advertstv/client/CoolLogic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>registerLibrary</find>
+      <find>create</find>
+      <find>createPlayer</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -128,7 +186,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/logic/src/main/java/com/advertstv/client/ClientTest.java" />
+        <option value="$PROJECT_DIR$/logic/pom.xml" />
+        <option value="$PROJECT_DIR$/gui/pom.xml" />
+        <option value="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/PlayerInformation.java" />
+        <option value="$PROJECT_DIR$/gui/src/main/java/module-info.java" />
         <option value="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/GUIMain.java" />
+        <option value="$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/MinimalPlayer.java" />
       </list>
     </option>
   </component>
@@ -147,6 +210,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -196,73 +260,43 @@
             <path>
               <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLIENT" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CLIENT" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CLIENT" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CLIENT" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CLIENT" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.github.jhg023:SimpleNet:1.2.5" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.github.jhg023:SimpleNet:1.2.5" type="70bed36:NamedLibraryElementNode" />
-              <item name="SimpleNet-1.2.5.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CLIENT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.github.jhg023:SimpleNet:1.2.5" type="70bed36:NamedLibraryElementNode" />
-              <item name="SimpleNet-1.2.5.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="simplenet" type="462c0819:PsiDirectoryNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CLIENT" type="58d84e3e:PackageViewProjectNode" />
+              <item name="gui" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542498759775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542503791551" />
+    <property name="last_opened_file_path" value="C:/Program Files/VideoLAN/VLC" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37931034" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -297,12 +331,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542483011629</updated>
-      <workItem from="1542483015549" duration="4302000" />
+      <workItem from="1542483015549" duration="7918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4302000" />
+    <option name="totallyTimeSpent" value="7918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1618" height="878" extended-state="6" />
@@ -315,14 +349,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32968536" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44459644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48290014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -394,16 +421,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logic/src/main/java/com/advertstv/client/CoolLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logic/src/main/java/com/advertstv/client/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="713">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -413,10 +433,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/logic/src/main/java/com/advertstv/client/CoolLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/vlcj-player/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/vlcj-player/src/main/java/uk/co/caprica/vlcjplayer/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/gui.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/src/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/PlayerInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/GUIMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="63" column="32" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="32" />
+        <state relative-caret-position="253">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1880#1881#0" expanded="true" />
@@ -425,5 +514,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gui/src/main/java/com/advertstv/clientui/player/MinimalPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37931034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37931034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37931034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37931034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>logic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37931034" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.sun.jna:jna:3.0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37931034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

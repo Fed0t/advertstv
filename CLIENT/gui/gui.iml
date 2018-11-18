@@ -10,6 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="uk.co.caprica:vlcj:3.10.1" level="project" />
     <orderEntry type="module" module-name="logic" />
     <orderEntry type="library" name="Maven: com.github.jhg023:SimpleNet:1.2.5" level="project" />
     <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:11.0.1" level="project" />

@@ -66,8 +66,10 @@ public class GUIMain extends Application {
 					synchronized(server)
 					{
 						server.disconnect((string) -> {textArea.appendText(string + "\n");});
+						Platform.runLater(() -> {textArea.appendText("Server stopped.\n");} );
 						System.out.print(event.toString());
 					}
+
 				}
 		});
 
